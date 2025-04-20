@@ -1,0 +1,19 @@
+# Archivos de compilación
+bin/
+obj/
+*.dll
+*.pdb
+
+# Configuración de IDE/Editor
+.vs/
+*.user
+*.suo
+*.cache
+
+# Dependencias
+packages/
+node_modules/
+
+# Archivos sensibles
+appsettings.Development.json
+*.env
