@@ -23,6 +23,9 @@
                         <li class="nav-item">
                             <a class="nav-link active mx-lg-2" href="#">Ver</a>
                         </li>
+                        <li class="nav-item">
+                        <a class="nav-link mx-lg-2" href="Citas.aspx">Citas</a>
+                        </li>
                     </ul>
                 </div>
             </div>
